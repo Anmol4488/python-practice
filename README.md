@@ -1,5 +1,4 @@
 1. Project Title: Student Marks Analyzer
-
 Technology: Python
 Concepts used:
 1.Variables
@@ -52,3 +51,18 @@ Display result
   ↓
 
 End
+
+4. What is the real-world impact of this project?
+"The project demonstrates how basic student academic data can be automatically analyzed instead of manually calculating totals, averages, and grades. It reduces simple calculation errors and provides results quickly. Although this is currently a console-based project, the same logic could be extended into a student management system or a web application."
+
+Impact areas:
+1. Automation
+Reduces manual calculations.
+2. Accuracy
+Programmatically calculates results.
+3. Time saving
+Total, average, highest and lowest subjects are calculated instantly.
+4. Data organization
+Dictionary organizes subjects and marks.
+5. Extensibility
+The project can later become a GUI/web application.
