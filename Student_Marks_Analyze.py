@@ -43,9 +43,9 @@ print("Min marks are in:",mk,"=",mv)
 # grade
 if average >= 90:
     print("Grade: A")
-elif average >=75 or average <= 89:
+elif average >=75 and average <= 89:
     print("Grade: B")
-elif average >=60 or average <= 74:
+elif average >=60 and average <= 74:
     print("Grade: C")
 else :
     print("Grade D")
